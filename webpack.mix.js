@@ -7,8 +7,8 @@ mix
   .sourceMaps()
   .browserSync({
     open: false,
-    port: 8080,
-    proxy: null,
     server: 'dist',
+    proxy: false,
+    files: 'dist',
     minify: false,
   });
