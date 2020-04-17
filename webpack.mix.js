@@ -8,7 +8,6 @@ mix
   .browserSync({
     open: false,
     server: 'dist',
-    proxy: false,
-    files: 'dist',
+    watch: true,
     minify: false,
   });
