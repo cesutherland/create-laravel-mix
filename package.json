@@ -19,7 +19,7 @@
     "browser-sync": "^2.26.7",
     "browser-sync-webpack-plugin": "^2.0.1",
     "cross-env": "^7.0.2",
-    "laravel-mix": "git@github.com:cesutherland/laravel-mix.git#2e8c908eb117fb195a28d557b7e8de1d4a82e335",
+    "laravel-mix": "git@github.com:cesutherland/laravel-mix.git#fork/v5-browsersync-server-arg",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "resolve-url-loader": "^3.1.0",
